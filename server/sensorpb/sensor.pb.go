@@ -4,7 +4,7 @@
 // 	protoc        v3.12.1
 // source: sensor.proto
 
-package serverpb
+package sensorpb
 
 import (
 	context "context"

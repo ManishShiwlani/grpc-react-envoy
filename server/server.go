@@ -1,10 +1,9 @@
 package main
 
 import (
-	"grpc-react-envoy/server/sensorpb"
+	"github.com/ManishShiwlani/grpc-react-envoy/server/sensorpb"
 	"log"
 	"net"
-
 	"google.golang.org/grpc"
 )
 
